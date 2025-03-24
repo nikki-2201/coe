@@ -1,0 +1,46 @@
+# Virtual environments
+.venv/
+venv/
+venv_311/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data and model files
+data/raw/
+data/saved/
+data/uploads/
+models/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Test and coverage reports
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+.tox/
+.nox/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Environment variables and secrets
+.env
+*.env
+config.py  # if it contains sensitive information
+
+# Build and dist
+build/
+dist/
+*.egg-info/
