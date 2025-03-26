@@ -9,11 +9,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Data and model files
-data/raw/
-data/saved/
-data/uploads/
-models/
 
 # Logs and temp files
 *.log
